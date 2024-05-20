@@ -1,0 +1,28 @@
+<svg width="135" height="40" viewBox="0 0 135 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="135" height="40" rx="19.0476" fill="white" />
+  <rect x="5.71387" y="1.90479" width="3.80952" height="3.80952" fill="black" />
+  <rect x="3.80957" y="3.80957" width="1.90476" height="5.71429" fill="black" />
+  <rect x="1.9043" y="5.71436" width="1.90476" height="5.71429" fill="black" />
+  <rect y="9.52393" width="3.80952" height="1.90476" fill="black" />
+  <rect width="3.80952" height="3.80952" transform="matrix(-1 0 0 1 129.19 1.90479)" fill="black" />
+  <rect width="1.90476" height="5.71429" transform="matrix(-1 0 0 1 131.095 3.80957)" fill="black" />
+  <rect width="1.90476" height="5.71429" transform="matrix(-1 0 0 1 133 5.71436)" fill="black" />
+  <rect width="3.80952" height="1.90476" transform="matrix(-1 0 0 1 134.904 9.52393)" fill="black" />
+  <rect x="5.71387" y="34.2859" width="3.80952" height="3.80952" fill="black" />
+  <rect x="3.80957" y="30.4763" width="1.90476" height="5.71429" fill="black" />
+  <rect width="1.90476" height="5.71429" transform="matrix(1 0 0 -1 1.9043 34.2859)" fill="black" />
+  <rect width="3.80952" height="1.90476" transform="matrix(1 0 0 -1 0 30.4763)" fill="black" />
+  <rect width="3.80952" height="3.80952" transform="matrix(-1 0 0 1 129.19 34.2859)" fill="black" />
+  <rect width="1.90476" height="5.71429" transform="matrix(-1 0 0 1 131.095 30.4763)" fill="black" />
+  <rect x="133" y="34.2859" width="1.90476" height="5.71429" transform="rotate(180 133 34.2859)"
+    fill="black" />
+  <rect x="134.904" y="30.4763" width="3.80952" height="1.90476"
+    transform="rotate(180 134.904 30.4763)" fill="black" />
+  <rect x="9.52344" width="115.857" height="3.80952" fill="black" />
+  <rect x="9.52344" y="36.1904" width="115.857" height="3.80952" fill="black" />
+  <path
+    d="M28.6964 26.948V29H22.5584V26.948H20.5244V24.914H22.5584V26.948H26.6444V22.862H24.6104V20.828H22.5584V18.776H20.5244V12.656H22.5584V10.604H28.6964V12.656H30.7304V14.69H28.6964V12.656H24.6104V16.742H26.6444V18.776H28.6964V20.828H30.7304V26.948H28.6964ZM38.919 29V26.948H36.867V16.742H34.833V14.69H36.867V10.604H40.953V14.69H43.005V16.742H40.953V26.948H43.005V29H38.919ZM57.291 26.948V29H49.119V26.948H47.085V16.742H49.119V14.69H57.291V16.742H59.343V22.862H51.171V26.948H57.291ZM55.257 16.742H51.171V20.828H55.257V16.742ZM57.291 26.948V24.914H59.343V26.948H57.291ZM73.6386 26.948V29H67.5186V33.086H63.4326V14.69H73.6386V16.742H75.6906V26.948H73.6386ZM71.6046 16.742H67.5186V26.948H71.6046V16.742ZM96.139 26.948V29H87.967V26.948H85.915V12.656H87.967V10.604H96.139V12.656H98.173V26.948H96.139ZM90.001 12.656V18.776H92.035V16.742H94.087V12.656H90.001ZM94.087 20.828H92.035V22.862H90.001V26.948H94.087V20.828ZM110.435 14.69H108.383V12.656H110.435V10.604H114.521V20.828H116.555V22.862H114.521V29H110.435V22.862H102.263V18.776H104.297V20.828H110.435V14.69ZM106.349 16.742V18.776H104.297V16.742H106.349ZM108.383 14.69V16.742H106.349V14.69H108.383Z"
+    fill="black" />
+  <rect y="11.4285" width="3.80952" height="17.1429" fill="black" />
+  <rect width="3.80952" height="17.1429" transform="matrix(-1 0 0 1 134.904 11.4285)" fill="black" />
+</svg>
